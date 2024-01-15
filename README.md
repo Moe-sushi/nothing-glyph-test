@@ -1,7 +1,7 @@
 # NOTE:
 You need to root your phone to use the sysfs interface.
 # Phone(1):
-The driver is registered in `/sys/class/leds/aw210xx_led`
+The driver is registered in `/sys/class/leds/aw210xx_led`.       
 Useful interfaces:
 - `max_brightness`: the max value of brightness.
 - `video_leds_effect`: write 1 into it to enable video light
