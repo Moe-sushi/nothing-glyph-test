@@ -1,1 +1,5 @@
-THE CODE NEED TO BE RUN WITH `system` OR `root` USER.
+# NOTE:
+You need to root your phone to use the sysfs interface.
+# Phone(1):
+TODO
+# Phone(2):
